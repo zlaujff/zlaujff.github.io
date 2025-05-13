@@ -5422,3 +5422,4 @@ zmaticoo.com,114490,RESELLER
 zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
+google.com, pub-7783339863985824, DIRECT, f08c47fec0942fa0
